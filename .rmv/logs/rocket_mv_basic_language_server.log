@@ -1,0 +1,102 @@
+2023-07-12 17:46:16.870 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2023-07-12 17:46:17.026 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2023-07-12 17:46:17.298 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2023-07-12 17:46:17.389 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2023-07-12 17:46:17.389 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/PC-1/Desktop/tp-integrador-de-hermang
+2023-07-12 17:46:17.395 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/PC-1/Desktop/tp-integrador-de-hermang
+2023-07-12 17:46:17.426 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/PC-1/Desktop/tp-integrador-de-hermang
+2023-07-12 17:46:17.428 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2023-07-12 17:46:17.428 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/PC-1/Desktop/tp-integrador-de-hermang/.rmv/config
+2023-07-12 17:46:17.428 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2023-07-12 17:46:17.428 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/PC-1
+2023-07-12 17:46:17.470 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2023-07-12 17:46:17.471 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020101]documentation load start
+2023-07-12 17:46:17.472 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.SystemDocReader - [framework:30020102]system documentation path: /documentation/UNIVERSE/
+2023-07-12 17:46:17.478 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.ProjectDocReader - [framework:30020103]project documentation brief file: C:\Users\PC-1\Desktop\tp-integrador-de-hermang\.rmv\documentation\UNIVERSE\custom.json
+2023-07-12 17:46:17.531 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.UserDocReader - [framework:30020104]user documentation brief file: C:\Users\PC-1\documentation\UNIVERSE\custom.json
+2023-07-12 17:46:17.602 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020105]documentation load end
+2023-07-12 17:46:17.607 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030101]convertors for folder(C:/Users/PC-1/Desktop/tp-integrador-de-hermang) load start
+2023-07-12 17:46:17.612 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030102]comment convertor load finish
+2023-07-12 17:46:17.758 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030103]keyword convertor load finish
+2023-07-12 17:46:17.761 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030104]operator convertor load finish
+2023-07-12 17:46:17.762 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030105]function name convertor load finish
+2023-07-12 17:46:17.762 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030106]atVariable convertor load finish
+2023-07-12 17:46:17.762 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030107]convertors for folder(C:/Users/PC-1/Desktop/tp-integrador-de-hermang) load end
+2023-07-12 17:46:17.791 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.CapabilityConfig - [framework:30010301]capabilities file(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/config/capability) doesn't exist or read error, default config will take effect
+2023-07-12 17:46:17.792 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200105]load all workspace folders successful
+2023-07-12 17:46:17.797 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010101]load account manager start
+2023-07-12 17:46:17.850 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.CacheAccountHandler - [client:40010102]load cache account: 
+2023-07-12 17:46:17.855 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.ExternalAccountHandler - [client:40010103]load external account: 
+2023-07-12 17:46:17.907 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in tp-integrador-de-hermang account
+2023-07-12 17:46:17.913 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.916 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.924 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for tp-integrador-de-hermang, its period 5s 
+2023-07-12 17:46:17.925 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in .git account
+2023-07-12 17:46:17.926 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.926 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.927 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for .git, its period 5s 
+2023-07-12 17:46:17.929 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in logs account
+2023-07-12 17:46:17.929 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.929 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.930 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for logs, its period 5s 
+2023-07-12 17:46:17.930 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in refs account
+2023-07-12 17:46:17.931 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.931 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.931 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for refs, its period 5s 
+2023-07-12 17:46:17.932 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in remotes account
+2023-07-12 17:46:17.932 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.933 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.933 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for remotes, its period 5s 
+2023-07-12 17:46:17.933 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in objects account
+2023-07-12 17:46:17.934 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.934 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.935 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for objects, its period 5s 
+2023-07-12 17:46:17.935 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in refs account
+2023-07-12 17:46:17.936 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.936 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.936 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for refs, its period 5s 
+2023-07-12 17:46:17.937 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in remotes account
+2023-07-12 17:46:17.937 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.937 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.938 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for remotes, its period 5s 
+2023-07-12 17:46:17.939 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in Tp integrador de hegmar account
+2023-07-12 17:46:17.940 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.940 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.940 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for Tp integrador de hegmar, its period 5s 
+2023-07-12 17:46:17.941 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in assets account
+2023-07-12 17:46:17.941 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2023-07-12 17:46:17.941 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2023-07-12 17:46:17.942 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for assets, its period 5s 
+2023-07-12 17:46:17.945 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.ServerAccountHandler - [client:40010104]load server account: Account{name=refs, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang/.git/logs/refs, type=PREDICT}
+Account{name=remotes, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang/.git/logs/refs/remotes, type=PREDICT}
+Account{name=Tp integrador de hegmar, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar, type=PREDICT}
+Account{name=.git, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang/.git, type=PREDICT}
+Account{name=logs, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang/.git/logs, type=PREDICT}
+Account{name=assets, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets, type=PREDICT}
+Account{name=refs, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang/.git/refs, type=PREDICT}
+Account{name=objects, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang/.git/objects, type=PREDICT}
+Account{name=tp-integrador-de-hermang, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang, type=PREDICT}
+Account{name=remotes, path=C:/Users/PC-1/Desktop/tp-integrador-de-hermang/.git/refs/remotes, type=PREDICT}
+2023-07-12 17:46:17.945 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010105]load account manager finish
+2023-07-12 17:46:17.946 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.userspace.UserspaceManager - [framework:30010402]config file(C:\Users\PC-1/.rmv/config) watcher launch successful
+2023-07-12 17:48:54.898 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 17:50:02.675 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/js)
+2023-07-12 17:50:11.103 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 17:50:37.981 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/js)
+2023-07-12 17:51:10.058 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/css)
+2023-07-12 17:51:46.548 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 17:51:49.575 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/js)
+2023-07-12 17:58:23.995 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/css)
+2023-07-12 17:58:24.894 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 17:59:18.204 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/js)
+2023-07-12 18:06:04.184 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/css)
+2023-07-12 18:06:05.811 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 18:06:33.933 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/js)
+2023-07-12 18:06:49.782 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 18:06:52.228 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/js)
+2023-07-12 18:09:56.788 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 18:10:02.579 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/js)
+2023-07-12 18:10:10.000 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 18:10:12.649 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 18:10:47.885 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar)
+2023-07-12 18:10:49.078 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/PC-1/Desktop/tp-integrador-de-hermang/Tp integrador de hegmar/assets/js)
